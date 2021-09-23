@@ -1,0 +1,7 @@
+account:
+  - name: google-imap
+    host: imap.gmail.com
+    port: 993
+    domain: gmail.com
+    id: ${GOOGLE_ACCOUNT_ID}
+    pass: ${GOOGLE_ACCOUNT_PASS}
